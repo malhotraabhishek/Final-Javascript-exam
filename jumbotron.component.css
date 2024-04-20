@@ -1,0 +1,10 @@
+.jumbotron {
+  margin-bottom: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  /*all borders*/
+  border: 1px solid #ccc;
+  /*padding*/
+  padding: 10px;
+}
